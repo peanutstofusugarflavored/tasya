@@ -1628,12 +1628,29 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCz7L7y1FSmXhzrWjQjR7PC2oTydtNxPUnHQvsXb6zw&s=10" group-title="MOVIES",ETV Bioskop HD
+http://filex.tv:8080//live/Waqas%20Latif/12345678/302240.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_flik.png" group-title="MOVIES",FLIK
+http://filex.tv:8080//live/Waqas%20Latif/12345678/302244.ts
+
+#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="MOVIES tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeHxcJrZkm1U4rVr8mXM8g6zwCcVbpQgwpha-2aQWbQ&s=10",Siar 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=siar
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_bioskopindonesia.png" group-title="MOVIES",Bioskop Indonesia
+http://filex.tv:8080//live/Waqas%20Latif/12345678/302218.ts
+
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://images.indihometv.com/images/channels/image_ch_flik.png" group-title="MOVIES",FLIK (INDI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -2387,7 +2404,7 @@ http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10" group-title="TV Malaysia 🇲🇾",SUKAN RTM (X2)
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
-#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="TV Malaysia 🇲🇾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeHxcJrZkm1U4rVr8mXM8g6zwCcVbpQgwpha-2aQWbQ&s=10",138 Siar 
+#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="TV Malaysia 🇲🇾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeHxcJrZkm1U4rVr8mXM8g6zwCcVbpQgwpha-2aQWbQ&s=10",Siar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -2600,6 +2617,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 
 
 <=========================================== Korean Channels =======================================================>
+
 
 
 
