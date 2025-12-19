@@ -2235,7 +2235,7 @@ astro SPORTS
 
                                                   Astro Sports
      
-                                                   #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vvzYSYG6/20251218-141035.jpg" group-title="Astro Sports", * QRISku
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vvzYSYG6/20251218-141035.jpg" group-title="Astro Sports", * QRISku
 https://github.com/lusianaputri/lusipunyalu/raw/refs/heads/main/3f29c4075e4dd7c9bed0fdb8722ebc6a.mp4
                                           
 
@@ -2725,7 +2725,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vvzYSYG6/20251218-141035.jpg" group-title="********* TV", * QRISku
-https://github.com/lusianaputri/lusipunyalu/raw/refs/heads/main/3f29c4075e4dd7c9bed0fdb8722ebc6a.mp4
+#https://github.com/lusianaputri/lusipunyalu/raw/refs/heads/main/3f29c4075e4dd7c9bed0fdb8722ebc6a.mp4
 
 
 
@@ -2765,6 +2765,7 @@ https://github.com/lusianaputri/lusipunyalu/raw/refs/heads/main/3f29c4075e4dd7c9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
 #https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
+
 
 
 
