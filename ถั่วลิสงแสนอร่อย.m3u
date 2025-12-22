@@ -1916,7 +1916,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-name="Celebrities TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZr3dSaa9MZlF1Ryj_IKEjF2h1ZJxZIjTwn7Nf-Lwq-g&s=10" group-title="ENTERTAINMENT",CELEBRITIES TV (VS+)
+#EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-name="Celebrities TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMRZk_moBVmQ-wJbmnc5QjgBciO9M2eN5CVlc-M9JLK3qiHIY5" group-title="ENTERTAINMENT",CELEBRITIES TV (VS)
 https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 
@@ -1943,7 +1943,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180-CL-Allplay-Ent_2025_10_24_15_48_50.jpg" group-title="ENTERTAINMENT", ALLPLAY ENT
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180-CL-Allplay-Ent_2025_10_24_15_48_50.jpg" group-title="ENTERTAINMENT", ALLPLAY ENT.
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
@@ -2116,7 +2116,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 &bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=BFQE_NtUYLScAUYvx2vpe9IsezHwkSHpL8q-eqK12ZvrexZJmhAVeqDFTOrWvYXR
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgwXbymNdo6nBQQtTMgQ_2WQe0-qlk7yFJXnwL1oihQ&s=10" group-title="KIDS",SPACETOON (OXY)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgwXbymNdo6nBQQtTMgQ_2WQe0-qlk7yFJXnwL1oihQ&s=10" group-title="KIDS",SPACETOON (OX)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=spacetoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
@@ -2714,7 +2714,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 #EXTINF:-1 group-title="TV JEPANG 🇯🇵" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 
-#EXTINF:-1 group-title="TV JEPANG 🇯🇵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORL JAPAN
+#EXTINF:-1 group-title="TV JEPANG 🇯🇵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s", NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 
