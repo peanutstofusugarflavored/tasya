@@ -590,6 +590,15 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuq8532W9fB5LakE4smhAJwE4ZF5GdUxUrSiQcgT73g&s" group-title="DAERAH",Jambi TV (Ga 24 Jam)
 https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/489080497142628352/OC6q4ikG.jpeg" group-title="DAERAH",BETV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch58.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/489080497142628352/OC6q4ikG.jpeg" group-title="DAERAH",RBTV BENGKULU
+https://h1.intechmedia.net/intech/ch59.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nU1CpPCvkL8GvkaIH3P5bpLwYU2vdpokOmA8MF1-HTTq8=s900-c-k-c0x00ffffff-no-rj" group-title="DAERAH",RBTV JOGJA
+http://live.rbtvjogja.tv/hls/0/stream.m3u8
 -----------+++++++++++++++++++++++++++++++++
 movies
 +++++++++++++++++++++++++++++++++++++++
