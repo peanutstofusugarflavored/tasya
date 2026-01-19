@@ -1964,6 +1964,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="TV JEPANG 🇯🇵" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", Green Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 
+#EXTINF:-1 group-title="TV JEPANG 🇯🇵" tvg-id="at_x" tvg-logo="https://i.ibb.co.com/gbbTxggs/Screenshot-2026-0120-030902.png",AT-X
+https://nl.utako.moe/AT-X/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG 🇯🇵" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
