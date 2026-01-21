@@ -2655,9 +2655,113 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 #EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKq89Vhhl-YnHj5FPg40xiHMTPSZla8QDRQ1AjMOuvQ&s=10" group-title="🔵Event MotoGP 2026", ZIGGO SPORT Belanda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+#https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+
+❤️❤️❤️❤️❤️
+🔵UCL | UEFA Champions League
+
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="BEIN SPORTS" tvg-logo="https://i.ibb.co.com/xcByYPT/GIF-Image1766430955196.gif" group-title="🔵UCL | UEFA Champions League", beIN Sports ID 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://i.ibb.co.com/HTSBssKm/GIF-Image1766432269442.gif" group-title="🔵UCL | UEFA Champions League",beIN Sports ID 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHTToZKceHSwLQNczARudnVmd22-jhHI1I42-R1xDHQ&s=10",PRIMA SPORTS 1
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg", beIN SPORTS  Qatar 3 SD
+http://135.125.109.73:9000/beinsport3_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UCL | UEFA Champions League",Alwan Sport 1 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UCL | UEFA Champions League",Alwan Sport 1 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UCL | UEFA Champions League",Alwan Sport 1 SD (Server 2)
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641624.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UCL | UEFA Champions League",Alwan Sport 2 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UCL | UEFA Champions League",Alwan Sport 2 SD Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UCL | UEFA Champions League",Alwan Sport 2 SD (Server 2)
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641625.ts
+
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-logo="https://i.ibb.co.com/HDPMbxPz/GIF-Image1766865108077.gif", Persiana Sports 1
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10",SONY TEN 1 (Server 1)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="IN - SONY TEN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="🔵UCL | UEFA Champions League",SONY TEN 1 (Server 2)
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C89NoY_EpC-XGBDiw-K9rIHQ/ts
+
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1gnQndipVVzLEAlN4Z9kZXM-9AkfJujhVkjUug_Xqg&s=10",SONY TEN 2
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+  
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10",SONY TEN 3
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
+  
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHTToZKceHSwLQNczARudnVmd22-jhHI1I42-R1xDHQ&s=10",PRIMA SPORTS 1
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0aw_JDvi4QHwzGZACuLt34ujC43p1u_KxX2D47kkTyg&s=10",PRIMA SPORTS 2
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 2 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510909
+#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 3 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510910
 
 ❤️❤️❤️❤️❤️❤️
 🔵Premier League | Liga Inggris
@@ -2668,11 +2772,24 @@ http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="🔵Premier League | Liga Inggris" tvg-id="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg", beIN SPORTS  Qatar 2 SD
 http://135.125.109.73:9000/beinsport2_.m3u8.
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1 SD (Server 2)
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641624.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 2 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 2 SD Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 2 SD (Server 2)
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641625.ts
+
 
 #EXTINF:-1 group-title="🔵Premier League | Liga Inggris" tvg-logo="https://i.ibb.co.com/HDPMbxPz/GIF-Image1766865108077.gif", Persiana Sports 1
 https://spstr.abntv.live/hls/psstream.m3u8
@@ -2904,7 +3021,7 @@ http://filex.tv:8080/uk007/000920/316803
 http://filex.tv:8080/uk007/000920/316804
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3V9ZILiv6NzLiyqJqSzp3_-limwpQSivMSwWVzdynQ&s=10",SPORT TV 5
 http://filex.tv:8080/uk007/000920/316805
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3V9ZILiv6NzLiyqJqSzp3_-limwpQSivMSwWVzdynQ&s=10",SPORT TV 5
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3V9ZILiv6NzLiyqJqSzp3_-limwpQSivMSwWVzdynQ&s=10",SPORT TV 6
 http://filex.tv:8080/uk007/000920/316806
 
 
@@ -3097,17 +3214,17 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_
 #EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/0pgWY6r6/20251211-053950.jpg", Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+#https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
 #EXTGRP:SPORTS
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/pH3Y0XW/20251211-054129.jpg",Dubai Sports 2
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
 #EXTGRP:SPORTS
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/Gfpwn00J/20251211-054149.jpg",Dubai Sports 3
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fox_sports.png" group-title="SPORTS", FOX SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3266,27 +3383,27 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKq89Vhhl-YnHj5FPg40xiHMTPSZla8QDRQ1AjMOuvQ&s=10" group-title="SPORTS", ZIGGO SPORT Belanda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+#https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
 
 #EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKq89Vhhl-YnHj5FPg40xiHMTPSZla8QDRQ1AjMOuvQ&s=10" group-title="SPORTS", ZIGGO SPORT 2 Belanda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+#https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
 
 #EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKq89Vhhl-YnHj5FPg40xiHMTPSZla8QDRQ1AjMOuvQ&s=10" group-title="SPORTS", ZIGGO SPORT 3 Belanda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
-https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+#https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
 
 #EXTINF:-1 tvg-id="Ziggo Sport 5.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKq89Vhhl-YnHj5FPg40xiHMTPSZla8QDRQ1AjMOuvQ&s=10" group-title="SPORTS", ZIGGO SPORT 5 Belanda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+#https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
 
 #EXTINF:-1 tvg-id="Ziggo Sport 6.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKq89Vhhl-YnHj5FPg40xiHMTPSZla8QDRQ1AjMOuvQ&s=10" group-title="SPORTS",  ZIGGO SPORT 6 Belanda
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+#https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/HDPMbxPz/GIF-Image1766865108077.gif", Persiana Sports 1
