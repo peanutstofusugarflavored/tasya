@@ -2713,12 +2713,6 @@ http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641625.ts
 #EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-logo="https://i.ibb.co.com/HDPMbxPz/GIF-Image1766865108077.gif", Persiana Sports 1
 https://spstr.abntv.live/hls/psstream.m3u8
 
-#EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10",TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
 #EXTINF:-1 group-title="🔵UCL | UEFA Champions League" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10",SONY TEN 1 (Server 1)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
