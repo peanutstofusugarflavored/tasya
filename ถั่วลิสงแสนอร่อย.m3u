@@ -396,12 +396,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 
 DAERAH
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKkQuzgBQ8AXj3WOiyxjyKPr2M2jp6xLIW5LrFijznQ&s=10" group-title="DAERAH",KTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://playlist-enkripsi.tvgeulis.workers.dev/stream.m3u8?token=C3oCVjfE3ZRvnf6AW69VqkStOqOTj6yowvlJnrLq1K6FCcaRyj1lPU6hmMB683t38xXAO1RoI9UL06ISLDXvHhZb2SNdOvmwArQdphbrQv91xZrXoCWhmBa1woFdwMBU&exp=1767779440&hmac=c539c05491f9c1e690de10695f13d26a2e7857ce03bbd3411e450c5b4d228ee1
-
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="DAERAH",Radar TV Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
