@@ -396,6 +396,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 
 DAERAH
 
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBEfew2yEYAWRKzkXS-f1aHSULOQjBYUNXQ8q_wJYJ-Q&s=10",DMTV
+https://e.siar.us/live/dmtv.m3u8
+
+
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="DAERAH",Radar TV Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
