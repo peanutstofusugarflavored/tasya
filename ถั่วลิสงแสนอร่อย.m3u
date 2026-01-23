@@ -3520,6 +3520,35 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://get.perfecttv.net/mutv.mpd
 
 ❤️❤️❤️❤️❤️❤️❤️
+
+#EXTINF:-1 tvg-id="NBA TV Canada TV HD" tvg-name="CA: NBA TV" tvg-logo="http://163.172.89.228/~msepg/logos/canada/nba-tv-ca.png" group-title="🏀BASKET",NBA TV Canada
+http://lunar.pm:8080/Mrdon/4782314540/67105
+
+#EXTINF:-1 tvg-id="nba-tv-philippines-cignal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLGgOw2BtVdFOH01fgGFFgm9R6VoSYLu3aGyQiLCwbA&s=10" group-title="🏀BASKET",NBA TV Philippines
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 tvg-id="pba-rush-hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLS8rUvIrxc_jvHeRh19V3wl3XjPFpuOHSYyAu6oAXA&s=10" group-title="🏀BASKET",PBA Rush
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-nba-it.png" , Sky Sport Basket
+#EXTGRP:🏀BASKET
+http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/19134/index.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7O5o79g9lcDm5QWM0fdliwUWW3iXBg9eIORX4M8NuQ&s=10" group-title="🏀BASKET",NBA TV (Pixelsports)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
+
+#EXTINF:-1 tvg-id="99951383" tvg-name="The NBA Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951383/168x168.png?type=color_onBlack" group-title="🏀BASKET",The NBA Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=26492059-44f6-41bc-b1cc-72b2aa96dbcd&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+
+❤️❤️❤️❤️❤️❤️❤️
 CHANNEL SPORTS INDONESIA
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4366,6 +4395,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="SPORTS",EUROSPORT (TP)
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-nba-it.png" , Sky Sport Basket
+#EXTGRP:SPORTS
+http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/19134/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV Canada TV HD" tvg-name="CA: NBA TV" tvg-logo="http://163.172.89.228/~msepg/logos/canada/nba-tv-ca.png" group-title="SPORTS",NBA TV Canada
+http://lunar.pm:8080/Mrdon/4782314540/67105
+
+
 #EXTINF:-1 tvg-id="nba-tv-philippines-cignal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLGgOw2BtVdFOH01fgGFFgm9R6VoSYLu3aGyQiLCwbA&s=10" group-title="SPORTS",NBA TV PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
@@ -4375,6 +4412,17 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7O5o79g9lcDm5QWM0fdliwUWW3iXBg9eIORX4M8NuQ&s=10" group-title="SPORTS",NBA TV (Pixelsports)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
+
+
+#EXTINF:-1 tvg-id="99951383" tvg-name="The NBA Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951383/168x168.png?type=color_onBlack" group-title="SPORTS",The NBA Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=26492059-44f6-41bc-b1cc-72b2aa96dbcd&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
 
 #EXTINF:-1 tvg-id="tap-sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsG6PgcdcU6Ked5eoWUSjFB9rhTbElQtALBXp6uNTcw&s" group-title="SPORTS",TAP Sports (CR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
