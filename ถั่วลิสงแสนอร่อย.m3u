@@ -3504,8 +3504,9 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
 ❤️❤️❤️❤️❤️❤️❤️🤭❤️🤭
 CHANNEL CLUB BOLA
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_qQeYSbX11JTZeha4yv9i18ZoLv3hDx1CLNDpO5Gkw&s=10" group-title="CHANNEL CLUB BOLA",MILAN TV
-#http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127757
+#EXTINF:-1 tvg-id="" group-logo=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-HDjCyIsXIYxOVNA6_ncAQOOIY4PnQwpK_qciL9RDw&s=10" group-title="CHANNEL CLUB BOLA",MILAN TV
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127757
+
 
 #EXTINF:-1 group-title="CHANNEL CLUB BOLA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lFnUDCLavvURGgFf03qM2wwU25vYuBIk524a-29NMA&s=10",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -4473,6 +4474,10 @@ https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="SPORTS",Now Premier League 3
 #https://7pal.short.gy/nowhkp3
+
+#EXTINF:-1 tvg-id="" group-logo=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-HDjCyIsXIYxOVNA6_ncAQOOIY4PnQwpK_qciL9RDw&s=10" group-title="SPORTS",MILAN TV
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127757
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lFnUDCLavvURGgFf03qM2wwU25vYuBIk524a-29NMA&s=10",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
