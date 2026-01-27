@@ -393,9 +393,29 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
 #EXTINF: -1 tvg-name="TRANS TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="TV SD (HEMAT KOUTA)", Trans TV (360p)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2108851844_b344100_sleng.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="TV SD (HEMAT KOUTA)",Trans TV (480p)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="TV SD (HEMAT KOUTA)",Trans 7 (480p)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="TV SD (HEMAT KOUTA)",RCTI (480p)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="TV SD (HEMAT KOUTA)", DAAI (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="TV SD (HEMAT KOUTA)",DAAI TV (480p)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="TV SD (HEMAT KOUTA)",RCTI (480p)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" group-title="TV SD (HEMAT KOUTA)", METRO TV (360p)
@@ -3238,7 +3258,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCvNL21xC0G70TVk-GF320HJ6MBT7ioIlEQv_8rMdYw&s=10" group-title="🔵INDONESIA MASTER 2026",Sportstars 3 (OS6) (gak support wifi indih*me)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqvymjjFl4u9qqaY6deuns9CyZ9oOBTA3-QmXZrkmkg&s" group-title="🔵INDONESIA MASTER 2026",Sportstars 4 (OS6) (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
