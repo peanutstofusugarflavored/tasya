@@ -32,6 +32,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV DIGITAL
+http://103.172.71.153:9981/stream/channelid/87868683?profile=pass
+
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png",SCTV (IHT)
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
@@ -45,6 +48,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rcti.png" group-title="Nasional", RCTI (VS)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rcti.png" group-title="Nasional",RCTI DIGITAL
+http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
@@ -202,7 +209,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10" group-title="Nasional",GARUDA TV (LIVE)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 1)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (LIVE)
 http://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
@@ -383,7 +390,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="TV SD (HEMAT KOUTA)", DAAI HD 
+#EXTINF: -1 tvg-name="TRANS TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="TV SD (HEMAT KOUTA)", Trans TV (360p)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2108851844_b344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="TV SD (HEMAT KOUTA)", DAAI (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 
@@ -392,7 +402,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="TV SD (HEMAT KOUTA)", KOMPAS (360p) 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="TV SD (HEMAT KOUTA)", KOMPAS TV (360p) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
@@ -443,7 +453,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h248/02.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_183x174/1701422013_square.jpg" group-title="TV SD (HEMAT KOUTA)", CREMA TV 
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_183x174/1701422013_square.jpg" group-title="TV SD (HEMAT KOUTA)", CREMA TV  (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
 
@@ -857,7 +867,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹??🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="121" tvg-name="SIAR", group-title="MOVIES & ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeHxcJrZkm1U4rVr8mXM8g6zwCcVbpQgwpha-2aQWbQ&s=10",Siar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -875,6 +885,13 @@ http://filex.tv:8080//live/Waqas%20Latif/12345678/302218.ts
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzwhAEPymcWmjlOitCjqAdZcs36Pdwn6bImBA5cOr9A&s=10" group-title="MOVIES & ENTERTAINMENT", LIFETIME (Tanpa Sub IND)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
 
 🔵🔵🔵🔵🔵
 
@@ -1243,6 +1260,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aniplus.png" group-title="MOVIES & ENTERTAINMENT",Aniplus (ORG) (Beberapa Device Ga Support)
 https://slive.mana2.my/AniPlus/index.mpd
 
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="MOVIES & ENTERTAINMENT", Aniplus (OSC)
+http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34397.ts
+
+
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1373,13 +1394,10 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx"  tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="KNOWLEDGE", NATGEO GRAPHIC (Tanpa Sub IND)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+http://supersonictv.live:8080/611366/682256/22124
 
 #EXTINF:-1 tvg-id="NationalGeographicWest.us"  tvg-logo="https://dookeela.live/uploads/1716363369.png" group-title="KNOWLEDGE", NATGEO WILD (Tanpa Sub IND)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"98b85dcb9dca5fcda975b7627193debd":"1b1ca584e6b91274c9f56c80eeb44ef7","e077d008a8ae54bcaf14e87981d15d8f":"fa3cca65dee592a589c61a84f2d6c1f6"}
-https://at-live-3.tentcdn.eu/bpk-tv/Nat_Geo_People_HD/default/index.mpd
+http://supersonictv.live:8080/611366/682256/22125
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3151,30 +3169,47 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
 
-EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEDZs-qdDurGgcYqoz2agnm7bXoVP6fExQaZ-a92X3FQ&s=10", RCTI SPORTS 
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEDZs-qdDurGgcYqoz2agnm7bXoVP6fExQaZ-a92X3FQ&s=10", RCTI SPORTS 
+http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
+EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8Qjclsu9fpbIqK_6ZHq9eJQXYmIAmeYk1GZnLMV6vA&s=10", GTV SPORTS 
 
-#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8Qjclsu9fpbIqK_6ZHq9eJQXYmIAmeYk1GZnLMV6vA&s=10", GTV SPORTS 
-http://filex.tv:8080//live/000003/000003/302247.ts
 
 
 #EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/67JzNgZ9/GIF-Image1766347197335.gif", MOJI SPORTS
 http://filex.tv:8080//live/000003/000003/302279.ts
 
-#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVUsSBqOYYFRhh--KgKaOvznTISj3j7QDf_LKTJGA_w&s=10", MNCTV SPORTS
-http://filex.tv:8080//live/000003/000003/302278.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVUsSBqOYYFRhh--KgKaOvznTISj3j7QDf_LKTJGA_w&s=10" group-title="SPORTS TV NASIONAL",MNC SPORTS
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-❤️❤️❤️❤️❤️❤️❤️
 
-#EXTINF:-1 group-title="🔵DAIHATSU INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxee3MeWtb_sjE1YsrSdSP8sHkrXKrfI6J-cFqrTPzWw&s",Sportstars 1
+❤️❤️❤️❤️❤️❤️
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKzLwoAr-9_4yDtKE7_HAI6jEGSVyFRZ7xJpdV8knfA&s=10" group-title="🔵AFC FUTSAL INDONESIA 2026",SOCCER CHANNEL
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+#EXTINF:-1 group-title="🔵INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEDZs-qdDurGgcYqoz2agnm7bXoVP6fExQaZ-a92X3FQ&s=10", RCTI SPORTS 
+#http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
+
+
+#EXTINF:-1 group-title="🔵INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxee3MeWtb_sjE1YsrSdSP8sHkrXKrfI6J-cFqrTPzWw&s",Sportstars 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
-#EXTINF:-1 group-title="🔵DAIHATSU INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUC9zqjwXZwDc8Fi_saHNiLQweZAe6iEcYXUmpIyjKw&s=10",Sportstars 2
+#EXTINF:-1 group-title="🔵INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUC9zqjwXZwDc8Fi_saHNiLQweZAe6iEcYXUmpIyjKw&s=10",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -3182,7 +3217,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
-#EXTINF:-1 group-logo=""group-title="🔵DAIHATSU INDONESIA MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCvNL21xC0G70TVk-GF320HJ6MBT7ioIlEQv_8rMdYw&s=10", Sportstars 3
+#EXTINF:-1 group-logo=""group-title="🔵INDONESIA MASTER 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCvNL21xC0G70TVk-GF320HJ6MBT7ioIlEQv_8rMdYw&s=10", Sportstars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3193,44 +3228,44 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 group-title="🔵DAIHATSU INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqvymjjFl4u9qqaY6deuns9CyZ9oOBTA3-QmXZrkmkg&s",Sportstars 4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#EXTINF:-1 group-title="🔵INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqvymjjFl4u9qqaY6deuns9CyZ9oOBTA3-QmXZrkmkg&s",Sportstars 4
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxee3MeWtb_sjE1YsrSdSP8sHkrXKrfI6J-cFqrTPzWw&s" group-title="🔵DAIHATSU INDONESIA MASTER 2026",Sportstars 1 (OS6) (gak support wifi indih*me)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxee3MeWtb_sjE1YsrSdSP8sHkrXKrfI6J-cFqrTPzWw&s" group-title="🔵INDONESIA MASTER 2026",Sportstars 1 (OS6) (gak support wifi indih*me)
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUC9zqjwXZwDc8Fi_saHNiLQweZAe6iEcYXUmpIyjKw&s=10" group-title="🔵DAIHATSU INDONESIA MASTER 2026",Sportstars 2 (OS6) (gak support wifi indih*me)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUC9zqjwXZwDc8Fi_saHNiLQweZAe6iEcYXUmpIyjKw&s=10" group-title="🔵INDONESIA MASTER 2026",Sportstars 2 (OS6) (gak support wifi indih*me)
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCvNL21xC0G70TVk-GF320HJ6MBT7ioIlEQv_8rMdYw&s=10" group-title="🔵DAIHATSU INDONESIA MASTER 2026",Sportstars 3 (OS6) (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCvNL21xC0G70TVk-GF320HJ6MBT7ioIlEQv_8rMdYw&s=10" group-title="🔵INDONESIA MASTER 2026",Sportstars 3 (OS6) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqvymjjFl4u9qqaY6deuns9CyZ9oOBTA3-QmXZrkmkg&s" group-title="🔵DAIHATSU INDONESIA MASTER 2026",Sportstars 4 (OS6) (gak support wifi indih*me)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqvymjjFl4u9qqaY6deuns9CyZ9oOBTA3-QmXZrkmkg&s" group-title="🔵INDONESIA MASTER 2026",Sportstars 4 (OS6) (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
-#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="🔵DAIHATSU INDONESIA MASTER 2026",True Sports 7
+#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="🔵INDONESIA MASTER 2026",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 #http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 
-#EXTINF:-1 group-title="🔵DAIHATSU INDONESIA MASTER 2026"" tvg-id="trueSports Arena.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 2
+#EXTINF:-1 group-title="🔵INDONESIA MASTER 2026"" tvg-id="trueSports Arena.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 #http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="🔵DAIHATSU INDONESIA MASTER 2026",EUROSPORT (TP)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="🔵INDONESIA MASTER 2026",EUROSPORT (TP)
 #http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="🔵DAIHATSU INDONESIA MASTER 2026",Hub Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="🔵INDONESIA MASTER 2026",Hub Sports 1
 #http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280827
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="🔵DAIHATSU INDONESIA MASTER 2026",Hub Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="🔵INDONESIA MASTER 2026",Hub Sports 2
 #http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280828
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="🔵DAIHATSU INDONESIA MASTER 2026" tvg-id="js4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4  
+#EXTINF:-1 group-title="🔵INDONESIA MASTER 2026" tvg-id="js4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4  
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 group-title="🔵DAIHATSU INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhKvLvce646KU8ufBTKIraaAWu45FNQKyZzPS1ySO6Q&s",CT SPORT
+#EXTINF:-1 group-title="🔵INDONESIA MASTER 2026" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhKvLvce646KU8ufBTKIraaAWu45FNQKyZzPS1ySO6Q&s",CT SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3239,13 +3274,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
-#EXTINF:-1 group-title="🔵DAIHATSU INDONESIA MASTER 2026" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10", SPOTV
+#EXTINF:-1 group-title="🔵INDONESIA MASTER 2026" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10", SPOTV
 #http://live-114.myjktv.com/watch/live.m3u8?video=spotv_540&amp;sid=TvfNH1cUZSwgcPCW2TtPFJuQlta1zp7Nu6f3yFpw&amp;secret=00e1b9512c645651c32cbc6d6c5d8cba&amp;time=1736162319
 
-#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png"  group-title="🔵DAIHATSU INDONESIA MASTER 2026",CCTV-5+
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png"  group-title="🔵INDONESIA MASTER 2026",CCTV-5+
 #http://125.227.210.55:8177/VideoInput/play.ts
 
-#EXTINF:-1 tvg-name="Arena_Sport" group-title="🔵DAIHATSU INDONESIA MASTER 2026",Arena Sport
+#EXTINF:-1 tvg-name="Arena_Sport" group-title="🔵INDONESIA MASTER 2026",Arena Sport
 #http://178.23.88.55/Arena_sport/index.m3u8
 
 ❤️❤️❤️❤️❤️
@@ -3454,7 +3489,7 @@ http://135.125.109.73:9000/beinsport2_.m3u8.
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1 HD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="??Premier League | Liga Inggris",Alwan Sport 1 SD (Server 1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1 SD (Server 1)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
 
 #EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1 SD (Server 2)
@@ -3546,6 +3581,18 @@ UFC | Ultimate Fighting Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
 #https://sports.semar.my.id/get.php?id=polsatf.mpd&auth=polsatfsemar25
+
+#EXTINF:-1 group-title="🔵UFC | Ultimate Fighting Championship" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10",SONY TEN 1 (Server 1)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
+#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="IN - SONY TEN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10" group-title="🔵UFC | Ultimate Fighting Championship",SONY TEN 1 (Server 2)
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C89NoY_EpC-XGBDiw-K9rIHQ/ts
+
 
 #EXTINF:-1 group-title="🔵UFC | Ultimate Fighting Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXgCK4a4Ty4R-JVqJApMPWY6gduuAxOhEOb4a5XmdOA&s=10", Tvn Sport KR
 http://live-114.myjktv.com/watch/live.m3u8?video=olivetv_540&sid=Sc69BEXBW6k9CNxZ97nZJN0bCi3J1VHo81hZHS4t&secret=2605541eafa12736a1579bb64743e09a&time=1736162204 
