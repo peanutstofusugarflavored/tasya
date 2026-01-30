@@ -866,10 +866,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹??🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_citradrama.png" group-title="MOVIES & ENTERTAINMENT",Citra Drama
-http://filex.tv:8080//live/Waqas%20Latif/12345678/501237.ts
-
 #EXTINF:-1 tvg-id="" group-title="MOVIES & ENTERTAINMENT" ch-number="136" tvg-logo="https://i.pinimg.com/236x/80/73/6d/80736de6934450da3f972c7b99815054.jpg",OH MY CERIA!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1098,11 +1094,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="citrabioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQviwaNi0Tfkj9vp93vovNCav67z_9MxisyjAF4OoOBm3OaBlPNulEXaOM&s=10" group-title="MOVIES & ENTERTAINMENT",CITRA BIOSKOP (FX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -1351,6 +1342,38 @@ http://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_kplus.png" group-title="MOVIES & ENTERTAINMENT",K-PLUS (IHT)
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="citrabioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQviwaNi0Tfkj9vp93vovNCav67z_9MxisyjAF4OoOBm3OaBlPNulEXaOM&s=10" group-title="MOVIES & ENTERTAINMENT",CITRA BIOSKOP
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Citra_Entertainment.png",Citra Entertainment
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_citradangdut.png",Citra Dangdut
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_citradrama.png",Citra Drama
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_citradrama.png" group-title="MOVIES & ENTERTAINMENT",Citra Drama (OSC)
+http://filex.tv:8080//live/Waqas%20Latif/12345678/501237.ts
 
 
 
