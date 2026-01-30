@@ -604,8 +604,22 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",JAWAPOST TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",Jawa Pos TV (IHT)
 https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+
+#EXTINF:-1 tvg-id="JawaPosTV.id@SD" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",Jawa Pos TV Surabaya
+http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Bali" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",Jawa Pos TV Bali
+http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",Jawa Pos TV Jakarta
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Madiun" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",Jawa Pos TV Madiun
+http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Magelang" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",Jawa Pos TV Magelang
+http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Semarang" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jawapos.png" group-title="DAERAH",Jawa Pos TV Semarang 
+http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -683,9 +697,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png",Bali TV (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eQ40zVhYrrSZS2f31sg3w7cVAXsJVo9mD9nwqj6GxA&s=10" group-title="DAERAH", CarubanTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
+#EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eQ40zVhYrrSZS2f31sg3w7cVAXsJVo9mD9nwqj6GxA&s=10" http-referrer="https://stream.carubantv.id" group-title="DAERAH", CarubanTV
+#EXTVLCOPT:http-referrer=https://stream.carubantv.id
+https://stream.carubantv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/489080497142628352/OC6q4ikG.jpeg" group-title="DAERAH",BETV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -1887,10 +1901,18 @@ http://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslim
 #EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0p4X9f-fLz_v8ntkLLePVYdrqSdkFqHmryqKykg7sYA&s=10",MADANI TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AlJawadainTV.iq@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIpxHBFFrWLmj1ym_hsYaAGNCrYkMpEkb308bbZs-QsKWkLw2CQLcbU8w&s=10" group-title="Religion: Islam",Al-Jawadain TV (Ga 24 Jam)
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+
 #EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/sjptv.png",SunnahJalanPasti TV (Ga 24 Jam)
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch17.m3u8
 
+⬇️⬇️⬇️
+Religion: Islam World
+
+#EXTINF:-1 tvg-id="YadahTV.zw@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIq1VdjHEl1alrDHMxletblBeGWyYxepn3CrSUPcwQw&s=10 group-title="Religion: Islam World",Yadah TV Zimbabwe (Ga 24 Jam)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
 
 Religion: Kristen⚠️⚠️⚠️⚠️
 
@@ -1908,6 +1930,17 @@ http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9YDLRUwZyK9N6dihm1VZ-dzfvbS2vQhJETNpnSnoQVQ&s=10" group-title="Religion: Kristen",Life
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
 
+#EXTINF:-1 tvg-id="Soyuz.ru@SD" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="Religion: Kristen",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WWXYDT3.pr@SD" tvg-logo="https://yt3.googleusercontent.com/i_3upOVPfv5zmUj5NxvHwqMVuxl4Xs4cpgdssxz0slvR-2gwBauN1NDUamwtaRszkpVU3m9xBoI=s160-c-k-c0x00ffffff-no-rj" group-title="Religion: Kristen",Maranatha 911 TV Puerto (Ga 24jam)
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
+
+#EXTINF:-1 tvg-id="WLMB.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZzEOyMWUKOEluds-eIjYjQvUL-E5FlSrtm8a8nor0A&s=10" group-title="Religion: Kristen",WLMB Amerika Serikat
+https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
+
+#EXTINF:-1 tvg-id="WholeWordTV.ng@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQIaAWt6vir3ZdHJC259ywlOrcuCjQkHH7L7kjlSAQt_FkGCfHHQZQeBg&s=10" group-title="Religion: Kristen",Whole Word TV Nigeria
+https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
 
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
@@ -2432,6 +2465,14 @@ https://ssai-streaming.thairath.co.th/bamm-csai/playlist.m3u8
 
 <========================= China ====================================>
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="TV CHINA 🇨🇳" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhi8ALEKfrruqb_Sje6jI477zbJbZEC1uOWHhmvyvmw&s=10",Xing Kong
+https://fta3-cdn-flr.visionplus.id/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ee5f4313ab54bce9f93cb166ea9d685:010f5ee14b27407c3691f73356ff32b1
@@ -2503,19 +2544,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
 http://125.227.210.55:8177/VideoInput/play.ts
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="TV CHINA 🇨🇳" tvg-logo="https://i.imgur.com/YDMCD2V.png", SHENZEN TV
-https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="TV CHINA 🇨🇳" tvg-logo="https://i.imgur.com/x9WlTNz.png", ZHEJIANG TV
-https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHrLDix.png" group-title="TV CHINA 🇨🇳",NTD 新唐人大陸台
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
@@ -2533,16 +2561,10 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="TV CHINA 🇨🇳", CCTV 4
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFuJPM7.png" group-title="TV CHINA 🇨🇳", CCTV+
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOAL2W3kq9G1iRRMWvgMZZh1NAxRt65nDrQ&s" group-title="TV CHINA 🇨🇳", xinjiang tv 3
-https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV CHINA 🇨🇳", 前郭综合
 https://stream2.jlntv.cn/qg/sd/live.m3u8
@@ -2551,8 +2573,6 @@ https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV CHINA 🇨🇳", 四平新闻综合
 https://stream2.jlntv.cn/sptv/sd/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV CHINA 🇨🇳", 宿州新闻综合
-https://live.ahsz.tv/video/s10001-szzh/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="TV CHINA 🇨🇳",浙江新闻
@@ -2574,8 +2594,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="TV CHINA 🇨🇳",动作
 https://live.metshop.top/huya/11602041
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="TV CHINA 🇨🇳",探险
-https://live.metshop.top/huya/11352913
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="TV CHINA 🇨🇳",贺岁电影
 https://live.metshop.top/huya/11601986
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="TV CHINA 🇨🇳",金庸武侠电影 ①
@@ -2588,6 +2607,9 @@ https://live.metshop.top/huya/11352897
 https://live.metshop.top/huya/11342395
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="TV CHINA 🇨🇳",灾难
 https://live.metshop.top/huya/11602075
+#EXTINF:-1 tvg-id="WXTV.tw@SD" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="TV CHINA 🇨🇳",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
 
 🇻🇳🇻🇳🇻🇳🇻🇳
 TV VIETNAM
@@ -3968,6 +3990,11 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="SPORTS",UFC (Server 1)
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="SPORTS",UFC (Server 2)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 
 
