@@ -67,6 +67,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (VS)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional" tvg-id="Trans TV" tvg-name="Trans TV", Trans TV (IHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
+https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (DTK)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
@@ -76,6 +82,13 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (VS)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional" tvg-id="Trans 7" tvg-name="Trans 7", Trans7 (IHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (DTK)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
@@ -1280,7 +1293,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aniplus.png" group-title="MOVIES & ENTERTAINMENT",Aniplus (ORG) (Beberapa Device Ga Support)
 https://slive.mana2.my/AniPlus/index.mpd
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="MOVIES & ENTERTAINMENT", Aniplus (OSC)
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aniplus.png" group-title="MOVIES & ENTERTAINMENT", Aniplus (OSC)
 http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34397.ts
 
 
@@ -1972,6 +1985,10 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹??🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1  tvg-logo="https://media.istockphoto.com/id/944086406/id/vektor/dua-ayam-berkelahi.jpg?s=612x612&w=0&k=20&c=Pi07unlzoKzSv9XjklZHhBWmn1qmr3LdYwOMcJENuk4=" group-title="🐓ADU AYAM | SABUNG AYAM",ADU AYAM 1
+http://49.0.64.96:8007/HiSports
+
 
 🔵🔵🔵🔵🔵🔵
 
@@ -3196,8 +3213,12 @@ EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted
 
 
 
-#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/67JzNgZ9/GIF-Image1766347197335.gif", MOJI SPORTS
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/67JzNgZ9/GIF-Image1766347197335.gif", MOJI SPORTS ¹(Ga Stabil)
 http://filex.tv:8080//live/000003/000003/302279.ts
+
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="ochannel.id" tvg-logo="https://i.ibb.co.com/67JzNgZ9/GIF-Image1766347197335.gif",MOJI SPORTS ²(Ga Stabil)
+http://202.169.224.202:8800/udp/239.9.1.32:1234
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
@@ -3310,7 +3331,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 xui-id="10" tvg-id="Trans7.id" tvg-name="TRANS 7 HD" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="🔵Event MotoGP 2026",TRANS 7 Digital
 https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/10.ts
 
-
 #EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="🔵Event MotoGP 2026",SPOTV Philippines
 #KODIPROP:inputstream.adaptive.livestream=false
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3378,6 +3398,9 @@ https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 #EXTINF:-1 group-title="🔵Event MotoGP 2026" tvg-id="bsntv" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png", BS NTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="🔵Event MotoGP 2026",Sky Sport MotoGP
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+
 #EXTINF:-1 group-title="🔵Event MotoGP 2026" tvg-logo="https://shorter.me/Xydc0" , FANCODE TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3390,6 +3413,7 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
+
 
 
 #EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKq89Vhhl-YnHj5FPg40xiHMTPSZla8QDRQ1AjMOuvQ&s=10" group-title="🔵Event MotoGP 2026", ZIGGO SPORT Belanda
