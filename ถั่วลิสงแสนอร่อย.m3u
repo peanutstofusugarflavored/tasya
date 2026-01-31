@@ -1755,6 +1755,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&b
 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmE0bUydw29RdW0NhME8tUUiPKD47UrVN8wg&s" group-title="Religion: Islam",AL WAFA TARIM TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQdNiZnLrGi5lto4VAmSmFYTFdt061kklpEesdb2Ztw&s=10" group-title="Religion: Islam", Al Bahjah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://202.150.161.117:8000/play/AlBahjahTV
@@ -2437,7 +2441,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="TV JEPANG 🇯🇵" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
+#EXTINF:-1 group-title="TV JEPANG ??🇵" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
