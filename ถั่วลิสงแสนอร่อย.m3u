@@ -1033,10 +1033,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_studiouniversal.png" group-title="MOVIES & ENTERTAINMENT OS6",Studio Universal (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
   
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT OS6" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Z BIOSKOP (Server 1)
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT OS6" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee BIOSKOP (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
   
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="MOVIES & ENTERTAINMENT OS6",Z BIOSKOP (Server 2) (gak support wifi indih*me)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="MOVIES & ENTERTAINMENT OS6",Zee BIOSKOP (Server 2) (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 
@@ -1091,24 +1091,33 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
-#EXTINF:-1 tvg-id="Z Bioskop.id" tvg-name="Z Bioskop" tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="MOVIES & ENTERTAINMENT",Z BIOSKOP (FX)
+#EXTINF:-1 tvg-id="Z Bioskop.id" tvg-name="Z Bioskop" tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="MOVIES & ENTERTAINMENT",Zee BIOSKOP (FX)
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Z Bioskop.id" tvg-name="Z Bioskop" tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="MOVIES & ENTERTAINMENT",Z BIOSKOP (VS)
+#EXTINF:-1 tvg-id="Z Bioskop.id" tvg-name="Z Bioskop" tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="MOVIES & ENTERTAINMENT",Zee BIOSKOP (VS)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Z Bioskop.id" tvg-name="Z Bioskop" tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="MOVIES & ENTERTAINMENT",Z BIOSKOP (IHT)
+#EXTINF:-1 tvg-id="Z Bioskop.id" tvg-name="Z Bioskop" tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="MOVIES & ENTERTAINMENT",Zee BIOSKOP (IHT)
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10",Zee Cinema (Tanpa Sub IND)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPMSgdWvcxJHbXOQcL_CYDJVyppbenpjN2kGpaPRNdw&s=10",Zee Bollywood (Tanpa Sub IND)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
