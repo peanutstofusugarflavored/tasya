@@ -1443,6 +1443,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 #https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
 
+#EXTINF:-1 tvg-id="History2.cz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKhbtLBaSi-rwnYtFmskJCUIn0W6halIB5Pj37t3F3A&s=10" group-title="KNOWLEDGE",HISTORY 2 (Tanpa Sub IND)
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd
+
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_461.png",BBC EARTH
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1911,37 +1919,76 @@ https://flv.intechmedia.net/live/ch17.m3u8
 ⬇️⬇️⬇️
 Religion: Islam World
 
+#EXTINF:-1 tvg-id="ZainabiaChannel.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_6rIzRgxXCLzbI708U4pxVTdbnEz1wcXpHxUt53TaQhvt5NFaqdD0XW9w&s=10" group-title="Religion: Islam World",Zainabia Channel India
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+
 #EXTINF:-1 tvg-id="YadahTV.zw@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIq1VdjHEl1alrDHMxletblBeGWyYxepn3CrSUPcwQw&s=10 group-title="Religion: Islam World",Yadah TV Zimbabwe (Ga 24 Jam)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
 
-Religion: Kristen⚠️⚠️⚠️⚠️
+#EXTINF:-1 tvg-id="VelayatTVNetwork.us@SD" tvg-logo="https://i.imgur.com/bRQSzhs.png" group-title="Religion: Islam World",Velayat TV
+https://nl.livekadeh.com/hls2/velayattv.m3u8
 
-#EXTINF:-1 group-title="Religion: Kristen" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_uchannel.png",UChannel
-https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
-  
-#EXTINF:-1 tvg-id="78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjQ06lJjc-ekyMKv4ByNQK2Fwug8dQyUerAiyHny5FQ&s" group-title="Religion: Kristen",TBN
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
-  
+#EXTINF:-1 tvg-id="TVMuslimThailand.th@SD" tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="Religion: Islam World",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+
+Religion: Kristen & Katolik⚠️⚠️⚠️⚠️
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9YDLRUwZyK9N6dihm1VZ-dzfvbS2vQhJETNpnSnoQVQ&s=10" group-title="Religion: Kristen",Life
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9YDLRUwZyK9N6dihm1VZ-dzfvbS2vQhJETNpnSnoQVQ&s=10" group-title="Religion: Kristen & Katolik",Life
 https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
 
-#EXTINF:-1 tvg-id="Soyuz.ru@SD" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="Religion: Kristen",Союз
+#EXTINF:-1 group-title="Religion: Kristen & Katolik" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_uchannel.png",UChannel
+https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
+  
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
+#EXTINF:-1 tvg-id="TBN.id" tvg-name="TBN.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjQ06lJjc-ekyMKv4ByNQK2Fwug8dQyUerAiyHny5FQ&s" group-title="Religion: Kristen & Katolik",TBN ASIA
+https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mediampd/TBNAsia.mpd
+  
+  
+#EXTINF:-1 tvg-id="TBN.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg" group-title="Religion: Kristen & Katolik",TBN
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+  
+#EXTINF:-1 tvg-id="TBNArmenia.us@SD" tvg-logo="https://i.imgur.com/U5XsT3j.png" group-title="Religion: Kristen & Katolik",TBN Armenia
+https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
+  
+#EXTINF:-1 tvg-id="TBNPacific.us@SD" tvg-logo="https://i.imgur.com/yWJTxKk.png" group-title="Religion: Kristen & Katolik",TBN Pacific
+https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+  
+#EXTINF:-1 tvg-id="TBNPolska.pl@SD" tvg-logo="https://i.postimg.cc/j2djj1b0/tbnpolska.png" group-title="Religion: Kristen & Katolik",TBN Polska
+https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
+  
+#EXTINF:-1 tvg-id="TBNUK.uk@SD" tvg-logo="https://i.postimg.cc/4yLxH1fK/tbnuk.png" group-title="Religion: Kristen & Katolik",TBN UK
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+  
+#EXTINF:-1 tvg-id="TBNBaltia.ee@SD" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="Religion: Kristen & Katolik",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+  
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEiufvi5PsLBGCQQabEA0ziKs_OLUyCGx1-utKvSTew&s=10" group-title="Religion: Kristen & Katolik",TBN Nejat Iran
+https://hls.nejat.live/hls/stream.m3u8
+  
+#EXTINF:-1 tvg-id="KVTNDT1.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQQpKxeBcf3OCIt-eaH595nMRQ37ti_5FhwsY3qE8Zdg=s900-c-k-c0x00ffffff-no-rj" group-title="Religion: Kristen & Katolik",VTN Amerika Serikat, 
+https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
+  
+#EXTINF:-1 tvg-id="Soyuz.ru@SD" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="Religion: Kristen & Katolik",Союз Rusia
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WWXYDT3.pr@SD" tvg-logo="https://yt3.googleusercontent.com/i_3upOVPfv5zmUj5NxvHwqMVuxl4Xs4cpgdssxz0slvR-2gwBauN1NDUamwtaRszkpVU3m9xBoI=s160-c-k-c0x00ffffff-no-rj" group-title="Religion: Kristen",Maranatha 911 TV Puerto (Ga 24jam)
+#EXTINF:-1 tvg-id="WWXYDT3.pr@SD" tvg-logo="https://yt3.googleusercontent.com/i_3upOVPfv5zmUj5NxvHwqMVuxl4Xs4cpgdssxz0slvR-2gwBauN1NDUamwtaRszkpVU3m9xBoI=s160-c-k-c0x00ffffff-no-rj" group-title="Religion: Kristen & Katolik",Maranatha 911 TV Puerto (Ga 24jam)
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 
-#EXTINF:-1 tvg-id="WLMB.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZzEOyMWUKOEluds-eIjYjQvUL-E5FlSrtm8a8nor0A&s=10" group-title="Religion: Kristen",WLMB Amerika Serikat
+#EXTINF:-1 tvg-id="WLMB.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZzEOyMWUKOEluds-eIjYjQvUL-E5FlSrtm8a8nor0A&s=10" group-title="Religion: Kristen & Katolik",WLMB Amerika Serikat
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
 
-#EXTINF:-1 tvg-id="WholeWordTV.ng@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQIaAWt6vir3ZdHJC259ywlOrcuCjQkHH7L7kjlSAQt_FkGCfHHQZQeBg&s=10" group-title="Religion: Kristen",Whole Word TV Nigeria
+#EXTINF:-1 tvg-id="WholeWordTV.ng@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQIaAWt6vir3ZdHJC259ywlOrcuCjQkHH7L7kjlSAQt_FkGCfHHQZQeBg&s=10" group-title="Religion: Kristen & Katolik",Whole Word TV Nigeria
 https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
 
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Religion: Kristen",TV Terceiro Anjo Brazil
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
                                   TVRI DAERAH
@@ -2462,6 +2509,10 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTVLCOPT:http-origin=https://www.thairath.co.th
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 https://ssai-streaming.thairath.co.th/bamm-csai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMuslimThailand.th@SD" tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="TV THAILAND 🇹🇭",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+
 
 <========================= China ====================================>
 
