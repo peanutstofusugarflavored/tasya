@@ -3736,12 +3736,6 @@ UFC | Ultimate Fighting Championship
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="🔵UFC | Ultimate Fighting Championship"",UFC (Server 1)
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="🔵UFC | Ultimate Fighting Championship"",UFC (Server 2)
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-
 #EXTINF:-1 group-title="🔵UFC | Ultimate Fighting Championship" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW2gQt_6FqTwOGQGdJhAodsQXUQ7x3FtXrZ-kPt2GVA&s=10", MATCH! FIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3772,27 +3766,20 @@ http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:5
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C89NoY_EpC-XGBDiw-K9rIHQ/ts
 
 
-#EXTINF:-1 group-title="🔵UFC | Ultimate Fighting Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXgCK4a4Ty4R-JVqJApMPWY6gduuAxOhEOb4a5XmdOA&s=10", Tvn Sport KR
-#http://live-114.myjktv.com/watch/live.m3u8?video=olivetv_540&sid=Sc69BEXBW6k9CNxZ97nZJN0bCi3J1VHo81hZHS4t&secret=2605541eafa12736a1579bb64743e09a&time=1736162204 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UFC | Ultimate Fighting Championship",Alwan UFC 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UFC | Ultimate Fighting Championship",Alwan UFC FHD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="🔵UFC | Ultimate Fighting Championship"",UFC (Server 1)
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaPisfifYh-E0IovvudRmEKzCVGzthWfk2BPgvnVYvWgGZglQJIrBNtGi&s=10" group-title="🔵UFC | Ultimate Fighting Championship"",UFC (Server 2)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
 
 🔵🔵🔵🔵🔵
 
 WWE | World Wrestling Entertainment
 
-#EXTINF:-1 tvg-chno="387" tvg-id="Live.Event.us" tvg-name="[WWE Wrestling] WWE Royal Rumble 1 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9elGOLcfmVbqUQ_ySTBFnkF3ZzEDlwocrNnUzuDQ1pWIqAmifkqqkfTyl&s=10 group-title="🔵WWE | World Wrestling Entertainment",ESPN WWE (Server 1)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.105.46/hls/SSSSH.m3u8
-
-#EXTINF:-1 tvg-chno="388" tvg-id="Live.Event.us" tvg-name="[WWE Wrestling] WWE Royal Rumble 2 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9elGOLcfmVbqUQ_ySTBFnkF3ZzEDlwocrNnUzuDQ1pWIqAmifkqqkfTyl&s=10" group-title="🔵WWE | World Wrestling Entertainment"ESPN WWE (Server 2)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://f.ulkjerg.shop/hls/SSSSH.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵WWE | World Wrestling Entertainment",Alwan WWE FHD
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
